@@ -1,2 +1,4 @@
 # sarinha
-Atividade em sala de aula - Git/GitHub
+Atividade em sala de aula - Git/GitHub 
+
+Sara Oliveira
